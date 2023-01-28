@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Chia Chin Pang (aka: Pang)</h1>
+<h3 align="center">A data explorer from Malaysia</h3>
 
 <!--
 **chinpang99/chinpang99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
