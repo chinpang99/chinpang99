@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chia Chin Pang (aka: Pang)</h1>
 <h3 align="center">A data explorer from Malaysia</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chinpang99&label=Profile%20views&color=0e75b6&style=flat" alt="chinpang99" /> </p>
+
+
 <!--
 **chinpang99/chinpang99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
