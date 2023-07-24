@@ -8,7 +8,7 @@
 - 💬 Ask me about **Python, SQL, AI-Generated Content (AIGC), Web Scraping, Automation**
 
 - 📫 How to contact me **chinpang@outlook.com**
-- 🎓 Check it out my Degree Final Year Project: <a href="https://github.com/chinpang99/Python/blob/main/Fake%20News%20Detection%20of%20Tweets%20by%20Applying%20NLP%20Features%20%26%20Machine%20Learning%20Algorithms/README.md"><b>LINK</b></a>
+- 🎓 Check it out my Degree Final Year Project: <a href="https://github.com/chinpang99/Python/blob/main/Fake%20News%20Detection%20of%20Tweets%20by%20Applying%20NLP%20Features%20%26%20Machine%20Learning%20Algorithms/README.md" target="blank"><b>LINK</b></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
